@@ -27,6 +27,7 @@ This commands includes
 <BR>
 
 ## Output
+[kome-text.pdf](https://github.com/user-attachments/files/23251301/kome-text.pdf)
 
 ## Result
 Thus Execution of Network commands Performed 
